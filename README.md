@@ -25,7 +25,7 @@ I enjoy turning ideas into functional web applications, exploring new technologi
 | Project | Description | Tech |
 |---|---|---|
 | [**gohyred**](https://www.gohyred.com/) | Job discovery platform with 500+ users and 20K+ job listings | Next.js, TypeScript, Supabase |
-| [**Bus Booking Platform**](https://bustkit-omega.vercel.app/) | Online bus booking, seat selection and payment workflows | Next.js, Prisma, PostgreSQL |
+| [**Bustkit**](https://bustkit-omega.vercel.app/) | Online bus booking, seat selection and payment workflows | Next.js, Prisma, PostgreSQL |
 | [**Vesto**](https://vesto-gilt.vercel.app/) | Full-stack clothing e-commerce application | React, Node.js, MongoDB |
 | [**Resumly**](https://resumly-eta.vercel.app/) | AI-powered resume summarization tool | Next.js, TypeScript, Grok API |
 
