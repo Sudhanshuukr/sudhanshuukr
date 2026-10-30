@@ -1,10 +1,65 @@
-<h1 align="center">Hi 👋, I'm Sudhanshu Kumar</h1>
-<h3 align="center">📚 Lifelong Learner | Exploring frontend development while sharpening coding skills | Open to collaboration and feedback</h3>
+# Hey, I'm Sudhanshu Kumar 👋
 
-<h3 align="left">Connect with me:</h3>
+### Full Stack Developer | Building for the Web 🚀
+
+I enjoy turning ideas into functional web applications, exploring new technologies, and building products that solve real-world problems.
+
+- 🔭 Building and improving [**gohyred**](https://www.gohyred.com/)
+- 💻 Working with **React, Next.js, Node.js & TypeScript**
+- 🤖 Exploring AI integrations and practical applications of LLMs
+- 🌱 Always learning, building, and improving my problem-solving skills
+- 💬 Open to collaborating on interesting projects
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="left">
-<a href="https://twitter.com/sudhanshuukr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudhanshuworks" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,react,nextjs,nodejs,express,tailwind,html,css,mongodb,postgres,supabase,prisma,git,github,postman,vercel" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**gohyred**](https://www.gohyred.com/) | Job discovery platform with 500+ users and 20K+ job listings | Next.js, TypeScript, Supabase |
+| [**Bus Booking Platform**](https://bustkit-omega.vercel.app/) | Online bus booking, seat selection and payment workflows | Next.js, Prisma, PostgreSQL |
+| [**Vesto**](https://vesto-gilt.vercel.app/) | Full-stack clothing e-commerce application | React, Node.js, MongoDB |
+| [**Resumly**](https://resumly-eta.vercel.app/) | AI-powered resume summarization tool | Next.js, TypeScript, Grok API |
+
+---
+
+### 🏆 Highlights
+
+- Regional Round Qualifier – **World Computer Hacker League (WCHL) 2025**
+- Helped organize **Hackamania**, an 8-hour hackathon at Microsoft, Gurugram.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshuukr&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/sudhanshuukr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/sudhanshuukr" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x" alt="Twitter"/>
+  </a>
+  <a href="https://sudhanshuworks.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting! Happy coding 🚀</i>
+</p>
