@@ -61,5 +61,5 @@ I enjoy turning ideas into functional web applications, exploring new technologi
 </p>
 
 <p align="center">
-  <i>Thanks for visiting! Happy coding 🚀</i>
+  <i>Thanks for visiting! Happy Coding 🚀</i>
 </p>
